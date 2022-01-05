@@ -1,2 +1,2 @@
-# Logbog
- Logbog til skole
+# Logbog Skabelon
+Logbog til elever i IT-fag.
