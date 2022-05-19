@@ -222,3 +222,7 @@
     color: white;
     transform: rotateY(180deg);
   }
+
+  .flip-card-back-content {
+    text-align: center;
+  }
