@@ -90,11 +90,11 @@
   }
 
   #matematik {
-    background-image:  url('images/that-was-just-rude-man-brandon-reed-welsh.gif');
+    background-image:  url('images/256664.jpg');
   }
 
   #engelsk {
-    background-image:  url('images/received_394143078944217\ \(1\).gif');
+    background-image:  url('images/264061416_449449449865064_2766112714794097013_n.jpg');
   }
 
   #so {
@@ -106,7 +106,7 @@
   }
 
   #dansk {
-    background-image:  url('images/dansk.jpg');
+    background-image:  url('images/lyn.jpg');
   }
 
   .content .element {
@@ -225,4 +225,8 @@
 
   .flip-card-back-content {
     text-align: center;
+  }
+
+  img { 
+    border-radius: 25%;
   }
